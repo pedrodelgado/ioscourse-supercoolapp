@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Supercool/ViewController.swift"
+            timestampString = "478679795.871246"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Supercool.ViewController.btnStart.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIButton&gt;"
+                  moduleName = "Supercool"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrodelgado/Documents/COURSES/SuperCool/Supercool/Supercool/ViewController.swift"
+                  timestampString = "478679409.611643"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Supercool.ViewController.btnStart.materializeForSet : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIButton&gt;"
+                  moduleName = "Supercool"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrodelgado/Documents/COURSES/SuperCool/Supercool/Supercool/ViewController.swift"
+                  timestampString = "478679409.611824"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Supercool.ViewController.init (Supercool.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; Supercool.ViewController"
+                  moduleName = "Supercool"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrodelgado/Documents/COURSES/SuperCool/Supercool/Supercool/ViewController.swift"
+                  timestampString = "478679409.611987"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "218">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Supercool.ViewController.init (Supercool.ViewController.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Supercool.ViewController&gt;"
+                  moduleName = "Supercool"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrodelgado/Documents/COURSES/SuperCool/Supercool/Supercool/ViewController.swift"
+                  timestampString = "478679409.612151"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "138">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Supercool/ViewController.swift"
+            timestampString = "478678996.53794"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Supercool.ViewController.BackgroundImg.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
+                  moduleName = "Supercool"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrodelgado/Documents/COURSES/SuperCool/Supercool/Supercool/ViewController.swift"
+                  timestampString = "478679409.614186"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Supercool.ViewController.BackgroundImg.materializeForSet : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
+                  moduleName = "Supercool"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrodelgado/Documents/COURSES/SuperCool/Supercool/Supercool/ViewController.swift"
+                  timestampString = "478679409.614569"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Supercool.ViewController.init (Supercool.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; Supercool.ViewController"
+                  moduleName = "Supercool"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrodelgado/Documents/COURSES/SuperCool/Supercool/Supercool/ViewController.swift"
+                  timestampString = "478679409.614728"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "70">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Supercool.ViewController.init (Supercool.ViewController.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Supercool.ViewController&gt;"
+                  moduleName = "Supercool"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrodelgado/Documents/COURSES/SuperCool/Supercool/Supercool/ViewController.swift"
+                  timestampString = "478679409.614862"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "31">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
